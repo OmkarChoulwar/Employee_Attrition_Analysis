@@ -1,2 +1,2 @@
 # Employee_Attrition_Analysis
-Machine Learning models to analyse trends in employee attrition and proper models for their estimation based on selected features
+Machine Learning models for predicting employee attrition based on various features. Analysis is being also done for the same generating various graphs to provide a visual presentation for the same. 
