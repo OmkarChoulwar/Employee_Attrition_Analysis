@@ -18,4 +18,6 @@ The whole project follows the following Methodology as:
 6. Feature Selection and reiteration.
 7. Results and Conclusion
 
-Various models were being trained during the course of the project and were being analysed in order to choose the optimal one for further use
+Various models were being trained during the course of the project and were being analysed in order to choose the optimal one for further use.
+
+XGBoost outperformed all the models due to its adaptable nature and less tending nature overfitting, giving an accuracy of <b>88.4%</b>
